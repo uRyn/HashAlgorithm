@@ -3,24 +3,10 @@
 MD5&SHA Hash is a APP of MD5 and sha-1, sha-256, sha-384, sha-512 hash generator, comparable utility.
 
 
-### Markdown
+### Description
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+One click or one drop to generate all hashes of MD5, sha-1, sha-256, sha-384 and sha-512. Convenience to generate all hashes just one time in one single window view. Easy to verify the hash with the file or text actual hash. There are two modes, hash file and hash text string. If you want more features, tell me.
 
-```markdown
-Syntax highlighted code block
+![Image](https://github.com/uRyn/HashAlgorithm/edit/master/img1.png)![Image](https://github.com/uRyn/HashAlgorithm/edit/master/img2.png)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+![Image](https://github.com/uRyn/HashAlgorithm/edit/master/img3.png)![Image](https://github.com/uRyn/HashAlgorithm/edit/master/img4.png)
